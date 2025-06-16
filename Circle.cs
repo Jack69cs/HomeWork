@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork
 {
-    public class Circle
+    public class Circle 
     {
         private double x;
         private double y;
